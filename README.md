@@ -1,4 +1,4 @@
-# Battery-Optimization-of-Electric-Vehicles-Using-Passive-Cell-Balancing
+# Battery-Optimization-of-Electric-Vehicles-Using-Passive-Cell-Balancing & Machine Learning Techniques.
 <br>
 <br>
 INTRODUCTION
